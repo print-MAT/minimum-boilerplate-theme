@@ -1,6 +1,6 @@
 {
   "vendor": "vtex",
-  "name": "minimumtheme",
+  "name": "my-test",
   "version": "0.1.2",
   "builders": {
     "styles": "2.x",
